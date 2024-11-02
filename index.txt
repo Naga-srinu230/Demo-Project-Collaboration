@@ -1,0 +1,2 @@
+adding first line into text file
+adding second line into text file
